@@ -5,6 +5,8 @@ public class EjemploGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("Prueba de GIT");
+		
+		int numero = 6;
 	}
 
 }
