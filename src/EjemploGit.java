@@ -7,6 +7,8 @@ public class EjemploGit {
 		System.out.println("Prueba de GIT");
 		
 		int numero = 6;
+		
+		System.out.println(numero + " ha sido impreso");
 	}
 
 }
